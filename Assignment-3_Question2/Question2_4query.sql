@@ -1,0 +1,1 @@
+select count(venue_id) footballworldcup from footballvenue;
